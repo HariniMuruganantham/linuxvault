@@ -1,15 +1,4 @@
-Below is the **Package Management in Linux** Markdown file in the same clean, general style.
-
-Save as:
-
-```
-basics/package-management.md
-```
-
----
-
-```md
-# Package Management in Linux
+# Package Management 
 
 ---
 
