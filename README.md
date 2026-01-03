@@ -27,7 +27,6 @@ linux-from-handwritten-notes/
 │   ├── directory-structure.md
 │   ├── file-operations.md
 │   ├── searching-files.md
-│   ├── systemd.md
 │   └── systemd-service.md
 │
 ├── users-groups/
