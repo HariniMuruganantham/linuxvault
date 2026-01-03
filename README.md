@@ -64,8 +64,6 @@ linux-from-handwritten-notes/
 ├── vi-shortcuts.md
 ├── important-linux.md
 
-yaml
-Copy code
 
 ---
 
